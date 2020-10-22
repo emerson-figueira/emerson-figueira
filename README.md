@@ -2,6 +2,9 @@
 
 My name is Emerson Figueira. 
 I hope you enjoy it.
+
+Thank you!
+😎
 <!--
 **emerson-figueira/emerson-figueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
